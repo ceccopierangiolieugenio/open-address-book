@@ -1,0 +1,9 @@
+<map id="OpenAB_Storage::Storage" name="OpenAB_Storage::Storage">
+<area shape="rect" id="node3" href="$classOpenAB__Storage_1_1CalendarStorage.html" title="Documentation for ContactsStorage interface. Provides functionalities specific to Storage of OpenAB::..." alt="" coords="113,155,295,197"/>
+<area shape="rect" id="node6" href="$classOpenAB__Storage_1_1ContactsStorage.html" title="Documentation for ContactsStorage interface. Provides functionalities specific to Storage of OpenAB::..." alt="" coords="320,155,504,197"/>
+<area shape="rect" id="node2" href="$classOpenAB__Source_1_1Source.html" title="Documentation for Source plugin interface. " alt="" coords="224,5,392,32"/>
+<area shape="rect" id="node4" href="$classCalDAVStorage.html" title="CalDAVStorage" alt="" coords="5,245,120,272"/>
+<area shape="rect" id="node5" href="$classEDSCalendarStorage.html" title="EDSCalendarStorage" alt="" coords="144,245,291,272"/>
+<area shape="rect" id="node7" href="$classCardDAVStorage.html" title="CardDAVStorage" alt="" coords="327,245,449,272"/>
+<area shape="rect" id="node8" href="$classEDSContactsStorage.html" title="EDSContactsStorage" alt="" coords="474,245,621,272"/>
+</map>

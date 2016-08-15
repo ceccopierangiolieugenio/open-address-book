@@ -1,0 +1,4 @@
+<map id="OpenAB::HttpAuthorizer" name="OpenAB::HttpAuthorizer">
+<area shape="rect" id="node2" href="$classOpenAB_1_1BasicHttpAuthorizer.html" title="Class BasicHttpAuthorizer. Implements HTTP Basic authentication method. " alt="" coords="5,80,200,107"/>
+<area shape="rect" id="node3" href="$classOpenAB_1_1OAuth2HttpAuthorizer.html" title="Class OAuth2HttpAuthorizer Implements OAuth2 authentication method. " alt="" coords="225,80,431,107"/>
+</map>

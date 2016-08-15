@@ -1,0 +1,6 @@
+<map id="OpenAB_Storage::ContactsStorage" name="OpenAB_Storage::ContactsStorage">
+<area shape="rect" id="node4" href="$classCardDAVStorage.html" title="CardDAVStorage" alt="" coords="5,245,128,272"/>
+<area shape="rect" id="node5" href="$classEDSContactsStorage.html" title="EDSContactsStorage" alt="" coords="153,245,300,272"/>
+<area shape="rect" id="node2" href="$classOpenAB__Storage_1_1Storage.html" title="Documentation for Storage plugin interface. Generic interface is modeled over Sync Plugin specific re..." alt="" coords="59,80,235,107"/>
+<area shape="rect" id="node3" href="$classOpenAB__Source_1_1Source.html" title="Documentation for Source plugin interface. " alt="" coords="63,5,231,32"/>
+</map>

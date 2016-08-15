@@ -1,0 +1,7 @@
+<map id="OpenAB::VDayLightTimeZoneKeyValueItem" name="OpenAB::VDayLightTimeZoneKeyValueItem">
+<area shape="rect" id="node2" href="$classOpenAB_1_1KeyValueItem.html" title="Class representing item containing fields in form of key value pairs, that can contain additional par..." alt="" coords="918,129,1079,156"/>
+<area shape="rect" id="node3" title="STL class. " alt="" coords="340,129,420,156"/>
+<area shape="rect" id="node4" title="STL class. " alt="" coords="38,122,165,163"/>
+<area shape="rect" id="node7" href="$classOpenAB_1_1ItemField.html" title="Class representing single field of iCalendar object. Field can have assigned value and list of parame..." alt="" coords="35,19,168,45"/>
+<area shape="rect" id="node10" href="$classOpenAB_1_1SmartPtr.html" title="OpenAB::SmartPtr\&lt; OpenAB\l::KeyValueItem \&gt;" alt="" coords="5,206,197,247"/>
+</map>

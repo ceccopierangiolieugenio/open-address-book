@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classOpenAB_1_1HttpAuthorizer.html" title="HttpAuthorizer interface. This should be used by classes implementing different Http authorization me..." alt="" coords="5,31,168,57"/>
+<area shape="rect" id="node2" href="$classOpenAB_1_1BasicHttpAuthorizer.html" title="Class BasicHttpAuthorizer. Implements HTTP Basic authentication method. " alt="" coords="222,5,418,32"/>
+<area shape="rect" id="node3" href="$classOpenAB_1_1OAuth2HttpAuthorizer.html" title="Class OAuth2HttpAuthorizer Implements OAuth2 authentication method. " alt="" coords="217,56,423,83"/>
+</map>

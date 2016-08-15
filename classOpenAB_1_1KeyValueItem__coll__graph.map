@@ -1,0 +1,6 @@
+<map id="OpenAB::KeyValueItem" name="OpenAB::KeyValueItem">
+<area shape="rect" id="node2" title="STL class. " alt="" coords="340,129,420,156"/>
+<area shape="rect" id="node3" title="STL class. " alt="" coords="38,122,165,163"/>
+<area shape="rect" id="node6" href="$classOpenAB_1_1ItemField.html" title="Class representing single field of iCalendar object. Field can have assigned value and list of parame..." alt="" coords="35,19,168,45"/>
+<area shape="rect" id="node9" href="$classOpenAB_1_1SmartPtr.html" title="OpenAB::SmartPtr\&lt; OpenAB\l::KeyValueItem \&gt;" alt="" coords="5,206,197,247"/>
+</map>

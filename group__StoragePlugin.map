@@ -1,0 +1,6 @@
+<map id="Storage Plugin" name="Storage Plugin">
+<area shape="rect" id="node1" href="$group__CalDAVStorage.html" title="Provides OpenAB::PIMCalendarItem items using CalDAV protocol (tested with Google Contacts, iCloud). " alt="" coords="327,5,486,32"/>
+<area shape="rect" id="node2" href="$group__EDSStoragePlugin.html" title="Provides storage for OpenAB::PIMContactItem items using Evolution Data Server. " alt="" coords="337,56,476,83"/>
+<area shape="rect" id="node3" href="$group__CardDAVStorage.html" title="Provides OpenAB::PIMContactItem items using CardDAV protocol (tested with Google Contacts, iCloud). " alt="" coords="323,107,490,133"/>
+<area shape="rect" id="node5" href="$group__pluginGroup.html" title="Plugin Interface" alt="" coords="6,56,119,83"/>
+</map>

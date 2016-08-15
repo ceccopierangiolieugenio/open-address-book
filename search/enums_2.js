@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['eadditem',['eAddItem',['../classOpenAB__Storage_1_1Storage.html#a780e915597d68a60f52153aa379d9894',1,'OpenAB_Storage::Storage']]],
+  ['ecancel',['eCancel',['../classOpenAB__Sync_1_1Sync.html#ae968c85da38b88349ea05c5de807b611',1,'OpenAB_Sync::Sync']]],
+  ['ecancelret',['eCancelRet',['../classOpenAB__Source_1_1Source.html#a72fc872a3235c201119b39d7c1b29c43',1,'OpenAB_Source::Source']]],
+  ['ecursorinit',['eCursorInit',['../classCalDAVStorageItemIterator.html#a3179b1ccc87dc5ade7f42646015b1109',1,'CalDAVStorageItemIterator::eCursorInit()'],['../classCardDAVStorageItemIterator.html#a691db3d57f6c236ca8eb8cd82cf0714c',1,'CardDAVStorageItemIterator::eCursorInit()'],['../classEDSCalendarStorageItemIterator.html#a4564b7c42ce7f756e0307db47e1cb774',1,'EDSCalendarStorageItemIterator::eCursorInit()'],['../classEDSContactsStorageItemIterator.html#a373c4290d1dbe0a8e68d5e1495258ec8',1,'EDSContactsStorageItemIterator::eCursorInit()']]],
+  ['efieldrole',['eFieldRole',['../structOpenAB_1_1PIMItemIndex_1_1PIMItemCheck.html#a7c781985e27fd50bef0e13d044c02d49',1,'OpenAB::PIMItemIndex::PIMItemCheck']]],
+  ['egetitem',['eGetItem',['../classOpenAB__Storage_1_1Storage.html#a554156f4ac19257b43c212a3cb2cdbf8',1,'OpenAB_Storage::Storage']]],
+  ['egetitemret',['eGetItemRet',['../classOpenAB__Source_1_1Source.html#abfd4a19242dd20bf467d365a84381fa8',1,'OpenAB_Source::Source']]],
+  ['egetrevisions',['eGetRevisions',['../classOpenAB__Storage_1_1Storage.html#a83df9ed4c5e3e64e0f4b4c871746746b',1,'OpenAB_Storage::Storage']]],
+  ['egetsynctoken',['eGetSyncToken',['../classOpenAB__Storage_1_1Storage.html#afd0a341f1db79c9358bb4c9a82cdee6d',1,'OpenAB_Storage::Storage']]],
+  ['einit',['eInit',['../classOpenAB__Source_1_1Source.html#a4571f094e4b4d3c02e98b0f99707d3d7',1,'OpenAB_Source::Source::eInit()'],['../classOpenAB__Sync_1_1Sync.html#adcf733ab0d31a4764c9cc64afb263465',1,'OpenAB_Sync::Sync::eInit()']]],
+  ['emodifyitem',['eModifyItem',['../classOpenAB__Storage_1_1Storage.html#ad2b1aa7d314b7b3b659beb1ef7359d31',1,'OpenAB_Storage::Storage']]],
+  ['eremoveitem',['eRemoveItem',['../classOpenAB__Storage_1_1Storage.html#a2666bc729ab3442c123736ebe03b935a',1,'OpenAB_Storage::Storage']]],
+  ['eresume',['eResume',['../classOpenAB__Sync_1_1Sync.html#a95621f8b403cfebc2e76b1e397f85f9f',1,'OpenAB_Sync::Sync']]],
+  ['eresumeret',['eResumeRet',['../classOpenAB__Source_1_1Source.html#a5876b92722acec6ca8e4aa25d636b351',1,'OpenAB_Source::Source']]],
+  ['esuspend',['eSuspend',['../classOpenAB__Sync_1_1Sync.html#a22577dde215acfd7cbb3d7dca0687349',1,'OpenAB_Sync::Sync']]],
+  ['esuspendret',['eSuspendRet',['../classOpenAB__Source_1_1Source.html#add790023c8a3c1343c8f0dabf6a1c9f1',1,'OpenAB_Source::Source']]],
+  ['esync',['eSync',['../classOpenAB__Sync_1_1Sync.html#a858042b955085c21268a952d60c046c6',1,'OpenAB_Sync::Sync']]]
+];

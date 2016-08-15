@@ -1,0 +1,14 @@
+<map id="/home/one/open&#45;address&#45;book/src/helpers/PluginManager.hpp" name="/home/one/open&#45;address&#45;book/src/helpers/PluginManager.hpp">
+<area shape="rect" id="node5" href="$PluginManagerTemplates_8hpp.html" title="helpers/PluginManagerTemplates.hpp" alt="" coords="605,96,845,123"/>
+<area shape="rect" id="node6" href="$Storage_8hpp.html" title="plugin/storage/Storage.hpp" alt="" coords="510,171,687,197"/>
+<area shape="rect" id="node18" href="$Source_8hpp.html" title="plugin/source/Source.hpp" alt="" coords="578,245,747,272"/>
+<area shape="rect" id="node7" href="$Plugin_8hpp.html" title="plugin/Plugin.hpp" alt="" coords="403,395,524,421"/>
+<area shape="rect" id="node13" href="$SmartPtr_8hpp.html" title="helpers/SmartPtr.hpp" alt="" coords="702,469,847,496"/>
+<area shape="rect" id="node14" href="$GenericParameters_8hpp.html" title="plugin/GenericParameters.hpp" alt="" coords="229,320,427,347"/>
+<area shape="rect" id="node21" href="$StorageItem_8hpp.html" title="StorageItem.hpp" alt="" coords="257,245,375,272"/>
+<area shape="rect" id="node9" href="$Log_8hpp.html" title="helpers/Log.hpp" alt="" coords="636,544,751,571"/>
+<area shape="rect" id="node15" href="$Variant_8hpp.html" title="helpers/Variant.hpp" alt="" coords="225,395,359,421"/>
+<area shape="rect" id="node17" href="$SecureString_8hpp.html" title="SecureString.hpp" alt="" coords="309,469,432,496"/>
+<area shape="rect" id="node19" href="$PIMItem_8hpp.html" title="PIMItem/PIMItem.hpp" alt="" coords="553,320,703,347"/>
+<area shape="rect" id="node20" href="$PIMItemIndex_8hpp.html" title="PIMItem/PIMItemIndex.hpp" alt="" coords="601,395,783,421"/>
+</map>

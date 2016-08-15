@@ -1,0 +1,5 @@
+<map id="Sync Plugin" name="Sync Plugin">
+<area shape="rect" id="node1" href="$group__TwoWaySync.html" title="The TwoWay Sync plugin is responsible to perform two&#45;way synchronization of PIM items. " alt="" coords="310,5,458,32"/>
+<area shape="rect" id="node3" href="$group__OneWaySync.html" title="The OneWay Sync plugin is responsible to perform one&#45;way synchronization of PIM items. " alt="" coords="311,56,457,83"/>
+<area shape="rect" id="node4" href="$group__pluginGroup.html" title="Plugin Interface" alt="" coords="6,31,119,57"/>
+</map>

@@ -1,0 +1,30 @@
+<map id="/home/one/open&#45;address&#45;book/src/plugins/carddav/CalDAVStorage.cpp" name="/home/one/open&#45;address&#45;book/src/plugins/carddav/CalDAVStorage.cpp">
+<area shape="rect" id="node2" href="$CalDAVStorage_8hpp.html" title="CalDAVStorage.hpp" alt="" coords="123,184,263,211"/>
+<area shape="rect" id="node23" href="$PIMCalendarItem_8hpp.html" title="PIMItem/Calendar/PIMCalendar\lItem.hpp" alt="" coords="1877,425,2085,466"/>
+<area shape="rect" id="node36" href="$OAuth2HttpAuthorizer_8hpp.html" title="helpers/OAuth2HttpAuthorizer.hpp" alt="" coords="459,432,680,459"/>
+<area shape="rect" id="node37" href="$BasicHttpAuthorizer_8hpp.html" title="helpers/BasicHttpAuthorizer.hpp" alt="" coords="224,432,433,459"/>
+<area shape="rect" id="node38" href="$OpenAB_8hpp.html" title="OpenAB.hpp" alt="" coords="1961,109,2057,136"/>
+<area shape="rect" id="node3" href="$CalendarStorage_8hpp.html" title="plugin/storage/CalendarStorage.hpp" alt="" coords="1565,259,1795,285"/>
+<area shape="rect" id="node26" href="$Http_8hpp.html" title="helpers/Http.hpp" alt="" coords="270,515,388,541"/>
+<area shape="rect" id="node28" href="$CalDAVHelper_8hpp.html" title="CalDAVHelper.hpp" alt="" coords="16,432,149,459"/>
+<area shape="rect" id="node4" href="$Storage_8hpp.html" title="Storage.hpp" alt="" coords="1502,341,1593,368"/>
+<area shape="rect" id="node8" href="$Plugin_8hpp.html" title="plugin/Plugin.hpp" alt="" coords="1387,589,1508,616"/>
+<area shape="rect" id="node14" href="$SmartPtr_8hpp.html" title="helpers/SmartPtr.hpp" alt="" coords="2414,664,2559,691"/>
+<area shape="rect" id="node15" href="$GenericParameters_8hpp.html" title="plugin/GenericParameters.hpp" alt="" coords="1059,515,1256,541"/>
+<area shape="rect" id="node19" href="$Source_8hpp.html" title="plugin/source/Source.hpp" alt="" coords="1293,432,1461,459"/>
+<area shape="rect" id="node22" href="$StorageItem_8hpp.html" title="StorageItem.hpp" alt="" coords="1683,432,1801,459"/>
+<area shape="rect" id="node10" href="$Log_8hpp.html" title="helpers/Log.hpp" alt="" coords="2429,739,2544,765"/>
+<area shape="rect" id="node16" href="$Variant_8hpp.html" title="helpers/Variant.hpp" alt="" coords="779,589,913,616"/>
+<area shape="rect" id="node18" href="$SecureString_8hpp.html" title="SecureString.hpp" alt="" coords="581,664,704,691"/>
+<area shape="rect" id="node20" href="$PIMItem_8hpp.html" title="PIMItem/PIMItem.hpp" alt="" coords="1737,515,1887,541"/>
+<area shape="rect" id="node21" href="$PIMItemIndex_8hpp.html" title="PIMItem/PIMItemIndex.hpp" alt="" coords="2225,589,2407,616"/>
+<area shape="rect" id="node29" href="$DAVHelper_8hpp.html" title="DAVHelper.hpp" alt="" coords="138,589,251,616"/>
+<area shape="rect" id="node39" href="$PIMContactItem_8hpp.html" title="PIMItem/Contact/PIMContact\lItem.hpp" alt="" coords="2110,425,2305,466"/>
+<area shape="rect" id="node40" href="$PIMCalendarItemIndex_8hpp.html" title="PIMItem/Calendar/PIMCalendar\lItemIndex.hpp" alt="" coords="2131,334,2339,375"/>
+<area shape="rect" id="node41" href="$PIMContactItemIndex_8hpp.html" title="PIMItem/Contact/PIMContact\lItemIndex.hpp" alt="" coords="2363,334,2559,375"/>
+<area shape="rect" id="node42" href="$Sync_8hpp.html" title="plugin/sync/Sync.hpp" alt="" coords="1080,259,1227,285"/>
+<area shape="rect" id="node43" href="$PluginManager_8hpp.html" title="helpers/PluginManager.hpp" alt="" coords="1332,184,1511,211"/>
+<area shape="rect" id="node45" href="$StringHelper_8hpp.html" title="helpers/StringHelper.hpp" alt="" coords="944,664,1108,691"/>
+<area shape="rect" id="node46" href="$TimeStamp_8hpp.html" title="helpers/TimeStamp.hpp" alt="" coords="2685,184,2844,211"/>
+<area shape="rect" id="node44" href="$PluginManagerTemplates_8hpp.html" title="helpers/PluginManagerTemplates.hpp" alt="" coords="1301,259,1541,285"/>
+</map>

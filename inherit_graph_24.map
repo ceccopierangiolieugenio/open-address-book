@@ -1,0 +1,10 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classOpenAB_1_1KeyValueItem.html" title="Class representing item containing fields in form of key value pairs, that can contain additional par..." alt="" coords="6,77,167,104"/>
+<area shape="rect" id="node2" href="$classOpenAB_1_1PIMCalendarItem.html" title="Documentation for class PIMCalendarItem. " alt="" coords="225,136,407,163"/>
+<area shape="rect" id="node5" href="$classOpenAB_1_1VDayLightTimeZoneKeyValueItem.html" title="Special implementation for VDAYLIGHT item of VTIMEZONE that ignores item. " alt="" coords="217,5,415,46"/>
+<area shape="rect" id="node6" href="$classOpenAB_1_1VStandardTimeZoneKeyValueItem.html" title="Special implementation for VSTANDARD item of VTIMEZONE that ignores item. " alt="" coords="217,70,415,111"/>
+<area shape="rect" id="node3" href="$classOpenAB_1_1PIMCalendarEventItem.html" title="OpenAB::PIMCalendarEventItem" alt="" coords="465,111,679,137"/>
+<area shape="rect" id="node4" href="$classOpenAB_1_1PIMCalendarTaskItem.html" title="OpenAB::PIMCalendarTaskItem" alt="" coords="467,161,677,188"/>
+<area shape="rect" id="node7" href="$classOpenAB_1_1PIMItem.html" title="Class representing PIM item. " alt="" coords="22,161,151,188"/>
+<area shape="rect" id="node8" href="$classOpenAB_1_1PIMContactItem.html" title="Class representing PIM contact item. " alt="" coords="229,187,403,213"/>
+</map>

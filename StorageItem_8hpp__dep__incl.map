@@ -1,0 +1,34 @@
+<map id="/home/one/open&#45;address&#45;book/src/plugin/storage/StorageItem.hpp" name="/home/one/open&#45;address&#45;book/src/plugin/storage/StorageItem.hpp">
+<area shape="rect" id="node2" href="$Storage_8hpp.html" title="/home/one/open&#45;address\l&#45;book/src/plugin/storage\l/Storage.hpp" alt="" coords="930,109,1094,165"/>
+<area shape="rect" id="node30" href="$EDSCalendarStorageItemIterator_8hpp.html" title="/home/one/open&#45;address\l&#45;book/src/plugins/eds\l/EDSCalendarStorageItemIterator.hpp" alt="" coords="1509,109,1751,165"/>
+<area shape="rect" id="node32" href="$EDSContactsStorageItemIterator_8hpp.html" title="/home/one/open&#45;address\l&#45;book/src/plugins/eds\l/EDSContactsStorageItemIterator.hpp" alt="" coords="1915,109,2158,165"/>
+<area shape="rect" id="node3" href="$PluginManager_8cpp.html" title="/home/one/open&#45;address\l&#45;book/src/helpers/PluginManager.cpp" alt="" coords="29,429,265,470"/>
+<area shape="rect" id="node4" href="$PluginManagerTemplates_8hpp.html" title="/home/one/open&#45;address\l&#45;book/src/helpers/PluginManager\lTemplates.hpp" alt="" coords="127,213,338,269"/>
+<area shape="rect" id="node6" href="$OpenAB_8hpp.html" title="/home/one/open&#45;address\l&#45;book/src/OpenAB.hpp" alt="" coords="1075,429,1239,470"/>
+<area shape="rect" id="node12" href="$OneWaySync_8cpp.html" title="/home/one/open&#45;address\l&#45;book/src/plugins/onewaysync\l/OneWaySync.cpp" alt="" coords="225,525,423,581"/>
+<area shape="rect" id="node14" href="$TwoWaySync_8cpp.html" title="/home/one/open&#45;address\l&#45;book/src/plugins/twowaysync\l/TwoWaySync.cpp" alt="" coords="469,525,667,581"/>
+<area shape="rect" id="node15" href="$CalendarStorage_8hpp.html" title="/home/one/open&#45;address\l&#45;book/src/plugin/storage\l/CalendarStorage.hpp" alt="" coords="1186,213,1350,269"/>
+<area shape="rect" id="node20" href="$ContactsStorage_8hpp.html" title="/home/one/open&#45;address\l&#45;book/src/plugin/storage\l/ContactsStorage.hpp" alt="" coords="1566,213,1730,269"/>
+<area shape="rect" id="node25" href="$Storage_8cpp.html" title="/home/one/open&#45;address\l&#45;book/src/plugin/storage\l/Storage.cpp" alt="" coords="785,213,949,269"/>
+<area shape="rect" id="node26" href="$Sync_8hpp.html" title="/home/one/open&#45;address\l&#45;book/src/plugin/sync\l/Sync.hpp" alt="" coords="733,317,897,373"/>
+<area shape="rect" id="node5" href="$PluginManager_8hpp.html" title="/home/one/open&#45;address\l&#45;book/src/helpers/PluginManager.hpp" alt="" coords="107,325,343,366"/>
+<area shape="rect" id="node7" href="$OpenAB__Init_8cpp.html" title="/home/one/open&#45;address\l&#45;book/src/OpenAB_Init.cpp" alt="" coords="881,533,1059,574"/>
+<area shape="rect" id="node8" href="$caldav__helper__tester_8cpp.html" title="/home/one/open&#45;address\l&#45;book/src/plugins/carddav\l/caldav_helper_tester.cpp" alt="" coords="1083,525,1254,581"/>
+<area shape="rect" id="node9" href="$CalDAVStorage_8cpp.html" title="/home/one/open&#45;address\l&#45;book/src/plugins/carddav\l/CalDAVStorage.cpp" alt="" coords="1481,525,1651,581"/>
+<area shape="rect" id="node10" href="$carddav__helper__tester_8cpp.html" title="/home/one/open&#45;address\l&#45;book/src/plugins/carddav\l/carddav_helper_tester.cpp" alt="" coords="1278,525,1457,581"/>
+<area shape="rect" id="node11" href="$CardDAVStorage_8cpp.html" title="/home/one/open&#45;address\l&#45;book/src/plugins/carddav\l/CardDAVStorage.cpp" alt="" coords="1721,525,1891,581"/>
+<area shape="rect" id="node13" href="$PBAP_8cpp.html" title="/home/one/open&#45;address\l&#45;book/src/plugins/pbap\l/PBAP.cpp" alt="" coords="691,525,855,581"/>
+<area shape="rect" id="node16" href="$CalendarStorage_8cpp.html" title="/home/one/open&#45;address\l&#45;book/src/plugin/storage\l/CalendarStorage.cpp" alt="" coords="1126,317,1290,373"/>
+<area shape="rect" id="node17" href="$CalDAVStorage_8hpp.html" title="/home/one/open&#45;address\l&#45;book/src/plugins/carddav\l/CalDAVStorage.hpp" alt="" coords="1265,421,1435,477"/>
+<area shape="rect" id="node18" href="$EDSCalendarStorage_8hpp.html" title="/home/one/open&#45;address\l&#45;book/src/plugins/eds\l/EDSCalendarStorage.hpp" alt="" coords="1366,317,1542,373"/>
+<area shape="rect" id="node19" href="$EDSCalendarStorage_8cpp.html" title="/home/one/open&#45;address\l&#45;book/src/plugins/eds\l/EDSCalendarStorage.cpp" alt="" coords="1459,421,1635,477"/>
+<area shape="rect" id="node21" href="$ContactsStorage_8cpp.html" title="/home/one/open&#45;address\l&#45;book/src/plugin/storage\l/ContactsStorage.cpp" alt="" coords="1566,317,1730,373"/>
+<area shape="rect" id="node22" href="$CardDAVStorage_8hpp.html" title="/home/one/open&#45;address\l&#45;book/src/plugins/carddav\l/CardDAVStorage.hpp" alt="" coords="1755,317,1926,373"/>
+<area shape="rect" id="node23" href="$EDSContactsStorage_8hpp.html" title="/home/one/open&#45;address\l&#45;book/src/plugins/eds\l/EDSContactsStorage.hpp" alt="" coords="1951,317,2127,373"/>
+<area shape="rect" id="node24" href="$EDSContactsStorage_8cpp.html" title="/home/one/open&#45;address\l&#45;book/src/plugins/eds\l/EDSContactsStorage.cpp" alt="" coords="1951,421,2127,477"/>
+<area shape="rect" id="node27" href="$Sync_8cpp.html" title="/home/one/open&#45;address\l&#45;book/src/plugin/sync\l/Sync.cpp" alt="" coords="835,421,999,477"/>
+<area shape="rect" id="node28" href="$OneWaySync_8hpp.html" title="/home/one/open&#45;address\l&#45;book/src/plugins/onewaysync\l/OneWaySync.hpp" alt="" coords="391,421,589,477"/>
+<area shape="rect" id="node29" href="$TwoWaySync_8hpp.html" title="/home/one/open&#45;address\l&#45;book/src/plugins/twowaysync\l/TwoWaySync.hpp" alt="" coords="613,421,811,477"/>
+<area shape="rect" id="node31" href="$EDSCalendarStorageItemIterator_8cpp.html" title="/home/one/open&#45;address\l&#45;book/src/plugins/eds\l/EDSCalendarStorageItemIterator.cpp" alt="" coords="1755,213,1998,269"/>
+<area shape="rect" id="node33" href="$EDSContactsStorageItemIterator_8cpp.html" title="/home/one/open&#45;address\l&#45;book/src/plugins/eds\l/EDSContactsStorageItemIterator.cpp" alt="" coords="2075,213,2318,269"/>
+</map>

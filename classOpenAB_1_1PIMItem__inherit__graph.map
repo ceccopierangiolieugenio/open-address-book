@@ -1,0 +1,6 @@
+<map id="OpenAB::PIMItem" name="OpenAB::PIMItem">
+<area shape="rect" id="node2" href="$classOpenAB_1_1PIMCalendarItem.html" title="Documentation for class PIMCalendarItem. " alt="" coords="140,80,321,107"/>
+<area shape="rect" id="node5" href="$classOpenAB_1_1PIMContactItem.html" title="Class representing PIM contact item. " alt="" coords="346,80,520,107"/>
+<area shape="rect" id="node3" href="$classOpenAB_1_1PIMCalendarEventItem.html" title="OpenAB::PIMCalendarEventItem" alt="" coords="5,155,219,181"/>
+<area shape="rect" id="node4" href="$classOpenAB_1_1PIMCalendarTaskItem.html" title="OpenAB::PIMCalendarTaskItem" alt="" coords="244,155,453,181"/>
+</map>

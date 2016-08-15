@@ -1,0 +1,7 @@
+<map id="OpenAB_Sync_params" name="OpenAB_Sync_params">
+<area shape="rect" id="node2" href="$classOpenAB__Plugin_1_1GenericParameters.html" title="Generic storage for plugin parameters. Allows to store map of parameters with different types (OpenAB..." alt="" coords="5,107,239,133"/>
+<area shape="rect" id="node3" href="$classOpenAB__Plugin_1_1Parameters.html" title="OpenAB_Plugin::Parameters" alt="" coords="28,13,217,40"/>
+<area shape="rect" id="node4" title="STL class. " alt="" coords="265,107,344,133"/>
+<area shape="rect" id="node5" title="STL class. " alt="" coords="242,6,368,47"/>
+<area shape="rect" id="node6" href="$classOpenAB__Sync_1_1Sync_1_1SyncCallback.html" title="Virtual class that provide all the callback routines to control the synchronization. " alt="" coords="369,99,523,141"/>
+</map>

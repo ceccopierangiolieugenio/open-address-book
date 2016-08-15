@@ -1,0 +1,6 @@
+<map id="OpenAB_Storage::CalendarStorage" name="OpenAB_Storage::CalendarStorage">
+<area shape="rect" id="node4" href="$classCalDAVStorage.html" title="CalDAVStorage" alt="" coords="5,245,120,272"/>
+<area shape="rect" id="node5" href="$classEDSCalendarStorage.html" title="EDSCalendarStorage" alt="" coords="144,245,291,272"/>
+<area shape="rect" id="node2" href="$classOpenAB__Storage_1_1Storage.html" title="Documentation for Storage plugin interface. Generic interface is modeled over Sync Plugin specific re..." alt="" coords="52,80,228,107"/>
+<area shape="rect" id="node3" href="$classOpenAB__Source_1_1Source.html" title="Documentation for Source plugin interface. " alt="" coords="56,5,224,32"/>
+</map>

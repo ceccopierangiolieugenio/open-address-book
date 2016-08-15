@@ -1,0 +1,6 @@
+<map id="OpenAB::PIMItemIndex" name="OpenAB::PIMItemIndex">
+<area shape="rect" id="node2" href="$classOpenAB_1_1PIMCalendarItemIndex.html" title="Documentation for class PIMCalendarItemIndex. It implements PIMItemIndex for OpenAB::eEvent or OpenAB..." alt="" coords="105,80,319,107"/>
+<area shape="rect" id="node5" href="$classOpenAB_1_1PIMContactItemIndex.html" title="Documentation for class PIMContactItemIndex. It implements PIMItemIndex for OpenAB::eContact type..." alt="" coords="343,80,549,107"/>
+<area shape="rect" id="node3" href="$classOpenAB_1_1PIMCalendarEventItemIndex.html" title="OpenAB::PIMCalendarEvent\lItemIndex" alt="" coords="5,155,195,197"/>
+<area shape="rect" id="node4" href="$classOpenAB_1_1PIMCalendarTaskItemIndex.html" title="OpenAB::PIMCalendarTaskItem\lIndex" alt="" coords="219,155,428,197"/>
+</map>

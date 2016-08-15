@@ -1,0 +1,6 @@
+<map id="Source Plugin" name="Source Plugin">
+<area shape="rect" id="node1" href="$group__FileSource.html" title="Provides OpenAB::PIMContactItem items from vCard files. Supports both folders of vCards and files con..." alt="" coords="339,5,467,32"/>
+<area shape="rect" id="node2" href="$group__PBAPSource.html" title="Provides OpenAB::PIMContactItem items using PBAP protocol. " alt="" coords="331,56,474,83"/>
+<area shape="rect" id="node3" href="$group__pluginGroup.html" title="Plugin Interface" alt="" coords="6,56,119,83"/>
+<area shape="rect" id="node5" href="$group__GoogleSource.html" title="Provides OpenAB::PIMContactItem items from Google Contacts. " alt="" coords="320,107,485,149"/>
+</map>

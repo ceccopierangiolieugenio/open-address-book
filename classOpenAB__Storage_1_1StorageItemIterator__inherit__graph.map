@@ -1,0 +1,6 @@
+<map id="OpenAB_Storage::StorageItemIterator" name="OpenAB_Storage::StorageItemIterator">
+<area shape="rect" id="node2" href="$classCalDAVStorageItemIterator.html" title="CalDAVStorageItemIterator" alt="" coords="273,5,455,32"/>
+<area shape="rect" id="node3" href="$classCardDAVStorageItemIterator.html" title="CardDAVStorageItemIterator" alt="" coords="269,56,459,83"/>
+<area shape="rect" id="node4" href="$classEDSCalendarStorageItemIterator.html" title="Documentation for class EDSCalendarStorageItemIterator. " alt="" coords="257,107,471,133"/>
+<area shape="rect" id="node5" href="$classEDSContactsStorageItemIterator.html" title="Documentation for class EDSStorageItemIterator. " alt="" coords="257,157,471,184"/>
+</map>

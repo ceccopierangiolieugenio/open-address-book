@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classOpenAB_1_1PIMItemIndex.html" title="Documentation for class PIMItemIndex. PIMItemIndex is a PIMItem representation used to match and comp..." alt="" coords="6,69,167,96"/>
+<area shape="rect" id="node2" href="$classOpenAB_1_1PIMCalendarItemIndex.html" title="Documentation for class PIMCalendarItemIndex. It implements PIMItemIndex for OpenAB::eEvent or OpenAB..." alt="" coords="216,44,429,71"/>
+<area shape="rect" id="node5" href="$classOpenAB_1_1PIMContactItemIndex.html" title="Documentation for class PIMContactItemIndex. It implements PIMItemIndex for OpenAB::eContact type..." alt="" coords="219,95,426,121"/>
+<area shape="rect" id="node3" href="$classOpenAB_1_1PIMCalendarEventItemIndex.html" title="OpenAB::PIMCalendarEvent\lItemIndex" alt="" coords="488,5,677,46"/>
+<area shape="rect" id="node4" href="$classOpenAB_1_1PIMCalendarTaskItemIndex.html" title="OpenAB::PIMCalendarTaskItem\lIndex" alt="" coords="477,70,688,111"/>
+</map>

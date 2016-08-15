@@ -1,0 +1,22 @@
+<map id="/home/one/open&#45;address&#45;book/src/OpenAB.hpp" name="/home/one/open&#45;address&#45;book/src/OpenAB.hpp">
+<area shape="rect" id="node3" href="$Log_8hpp.html" title="helpers/Log.hpp" alt="" coords="1871,651,1985,677"/>
+<area shape="rect" id="node7" href="$PIMItem_8hpp.html" title="PIMItem/PIMItem.hpp" alt="" coords="1430,427,1580,453"/>
+<area shape="rect" id="node10" href="$SmartPtr_8hpp.html" title="helpers/SmartPtr.hpp" alt="" coords="1855,576,2000,603"/>
+<area shape="rect" id="node11" href="$PIMContactItem_8hpp.html" title="PIMItem/Contact/PIMContact\lItem.hpp" alt="" coords="1654,337,1849,378"/>
+<area shape="rect" id="node14" href="$PIMCalendarItem_8hpp.html" title="PIMItem/Calendar/PIMCalendar\lItem.hpp" alt="" coords="1371,337,1579,378"/>
+<area shape="rect" id="node15" href="$PIMCalendarItemIndex_8hpp.html" title="PIMItem/Calendar/PIMCalendar\lItemIndex.hpp" alt="" coords="1571,246,1779,287"/>
+<area shape="rect" id="node16" href="$PIMContactItemIndex_8hpp.html" title="PIMItem/Contact/PIMContact\lItemIndex.hpp" alt="" coords="1803,246,1999,287"/>
+<area shape="rect" id="node17" href="$Storage_8hpp.html" title="plugin/storage/Storage.hpp" alt="" coords="797,253,973,280"/>
+<area shape="rect" id="node21" href="$Variant_8hpp.html" title="helpers/Variant.hpp" alt="" coords="145,501,279,528"/>
+<area shape="rect" id="node24" href="$Source_8hpp.html" title="plugin/source/Source.hpp" alt="" coords="587,344,756,371"/>
+<area shape="rect" id="node26" href="$Sync_8hpp.html" title="plugin/sync/Sync.hpp" alt="" coords="332,171,479,197"/>
+<area shape="rect" id="node27" href="$PluginManager_8hpp.html" title="helpers/PluginManager.hpp" alt="" coords="771,96,949,123"/>
+<area shape="rect" id="node29" href="$StringHelper_8hpp.html" title="helpers/StringHelper.hpp" alt="" coords="1136,576,1300,603"/>
+<area shape="rect" id="node30" href="$TimeStamp_8hpp.html" title="helpers/TimeStamp.hpp" alt="" coords="133,96,292,123"/>
+<area shape="rect" id="node8" href="$PIMItemIndex_8hpp.html" title="PIMItem/PIMItemIndex.hpp" alt="" coords="1805,501,1987,528"/>
+<area shape="rect" id="node18" href="$Plugin_8hpp.html" title="plugin/Plugin.hpp" alt="" coords="614,501,735,528"/>
+<area shape="rect" id="node20" href="$GenericParameters_8hpp.html" title="plugin/GenericParameters.hpp" alt="" coords="397,427,595,453"/>
+<area shape="rect" id="node25" href="$StorageItem_8hpp.html" title="StorageItem.hpp" alt="" coords="1126,344,1244,371"/>
+<area shape="rect" id="node23" href="$SecureString_8hpp.html" title="SecureString.hpp" alt="" coords="469,576,592,603"/>
+<area shape="rect" id="node28" href="$PluginManagerTemplates_8hpp.html" title="helpers/PluginManagerTemplates.hpp" alt="" coords="709,171,949,197"/>
+</map>

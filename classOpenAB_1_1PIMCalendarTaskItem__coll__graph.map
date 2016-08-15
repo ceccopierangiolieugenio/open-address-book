@@ -1,0 +1,9 @@
+<map id="OpenAB::PIMCalendarTaskItem" name="OpenAB::PIMCalendarTaskItem">
+<area shape="rect" id="node2" href="$classOpenAB_1_1PIMCalendarItem.html" title="Documentation for class PIMCalendarItem. " alt="" coords="1163,64,1344,91"/>
+<area shape="rect" id="node3" href="$classOpenAB_1_1PIMItem.html" title="Class representing PIM item. " alt="" coords="795,15,925,41"/>
+<area shape="rect" id="node4" title="STL class. " alt="" coords="340,108,420,135"/>
+<area shape="rect" id="node6" href="$classOpenAB_1_1KeyValueItem.html" title="Class representing item containing fields in form of key value pairs, that can contain additional par..." alt="" coords="950,120,1111,147"/>
+<area shape="rect" id="node5" title="STL class. " alt="" coords="38,101,165,142"/>
+<area shape="rect" id="node9" href="$classOpenAB_1_1ItemField.html" title="Class representing single field of iCalendar object. Field can have assigned value and list of parame..." alt="" coords="35,263,168,289"/>
+<area shape="rect" id="node12" href="$classOpenAB_1_1SmartPtr.html" title="OpenAB::SmartPtr\&lt; OpenAB\l::KeyValueItem \&gt;" alt="" coords="5,183,197,225"/>
+</map>
